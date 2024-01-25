@@ -1149,25 +1149,6 @@ footer.avacus-footer-section {
   content: "";
 }
 
-.avacus-page-header-section1 {
-  height: 250px;
-  background-image: url("./img/entp.png");
-  background-position: center center;
-  -webkit-background-size: cover;
-  background-size: cover;
-  position: relative;
-}
-
-.avacus-page-header-section1:before {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  left: 0;
-  top: 0;
-  background: rgba(0, 52, 69, 0.85);
-  content: "";
-}
-
 .breadcrumb li:before {
   display: none;
 }
