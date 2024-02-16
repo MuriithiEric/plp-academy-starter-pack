@@ -33,7 +33,7 @@ Version: 1.0
 /*start topbar area css*/
 
 .top_bar_area {
-  background: #00999e;
+  background: #003445D9;
   line-height: 48px;
 }
 
@@ -1741,7 +1741,7 @@ a.ui-slider-handle.ui-state-default.ui-corner-all {
   height: 100%;
   left: 0;
   top: 0;
-  background: #00999e;
+  background: ;
   content: "";
 }
 
