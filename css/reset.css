@@ -10,7 +10,7 @@ body {
   font-family: "Poppins", sans-serif !important;
   font-size: 14px;
   font-weight: 400;
-  color: #003445;
+  color: #00999e;
 }
 
 ul {
@@ -295,13 +295,13 @@ select {
 }
 
 .section-title h2 {
-  color: #003445;
+  color: #00999e;
   font-size: 36px;
   font-weight: 700;
 }
 
 .section-title h4 {
-  color: #003445;
+  color: #00999e;
   font-family: "Lora", serif;
   font-style: italic;
   font-size: 20px;
@@ -321,8 +321,8 @@ body::-webkit-scrollbar-track {
 }
 
 body::-webkit-scrollbar-thumb {
-  background-color: #003445;
-  outline: 1px solid #003445;
+  background-color: #00999e;
+  outline: 1px solid #00999e;
 }
 
 /*pagination css*/
@@ -351,7 +351,7 @@ body::-webkit-scrollbar-thumb {
 .pagination > li > a:hover,
 .pagination > li > span:focus,
 .pagination > li > span:hover {
-  background-color: #fde428;
+  background-color: #8b173b;
   border-color: transparent;
   color: #003455;
   z-index: 2;

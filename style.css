@@ -33,7 +33,7 @@ Version: 1.0
 /*start topbar area css*/
 
 .top_bar_area {
-  background: #003445;
+  background: #00999e;
   line-height: 48px;
 }
 
@@ -45,7 +45,7 @@ ul.single-topbar li {
 
 ul.single-topbar li span:first-child {
   margin-right: 10px;
-  color: #fde428;
+  color: #8b173b;
   font-size: 14px;
   font-weight: 700;
 }
@@ -63,7 +63,7 @@ ul.single-topbar li span:first-child {
 }
 
 .topbar-right ul li.social-icon a:hover {
-  color: #fde428;
+  color: #8b173b;
 }
 
 .topbar-right ul li.social-icon {
@@ -74,11 +74,11 @@ ul.single-topbar li span:first-child {
 .topbar-right ul li a.getAquate {
   padding-left: 40px;
   padding-right: 40px;
-  background: #fde428;
+  background: #8b173b;
   /* padding: 13px 40px; */
   text-transform: uppercase;
   font-weight: 700;
-  color: #003445;
+  color: #00999e;
   font-size: 14px;
   transition: 0.4s;
   padding-top: 13px;
@@ -101,14 +101,14 @@ ul.single-topbar li span:first-child {
   text-transform: uppercase;
   font-size: 14px;
   font-weight: 700;
-  color: #003445;
+  color: #00999e;
   line-height: 51px;
   transition: 0.4s;
 }
 
 .menu li a:hover,
 .menu li.current-menu-item > a {
-  color: #fde428;
+  color: #8b173b;
 }
 
 /*dorpdown csss*/
@@ -126,12 +126,12 @@ ul.single-topbar li span:first-child {
 }
 
 .menu li ul li:hover {
-  background: #fde428;
+  background: #8b173b;
   color: #fff;
 }
 
 .menu li ul li a:hover {
-  color: #003445;
+  color: #00999e;
 }
 
 .menu li ul li a {
@@ -201,7 +201,7 @@ ul.single-topbar li span:first-child {
 }
 
 .notification li:first-child a span {
-  background: #fde428 none repeat scroll 0 0;
+  background: #8b173b none repeat scroll 0 0;
   border-radius: 50%;
   font-size: 12px;
   font-weight: 700;
@@ -211,7 +211,7 @@ ul.single-topbar li span:first-child {
   text-align: center;
   top: 5px;
   width: 20px;
-  color: #003445;
+  color: #00999e;
 }
 
 .searchbox {
@@ -268,9 +268,9 @@ span.shoping-count {
 }
 
 .welcome-btn a {
-  background: #fde428 none repeat scroll 0 0;
+  background: #8b173b none repeat scroll 0 0;
   border-radius: 0;
-  color: #003445;
+  color: #00999e;
   display: inline-block;
   font-size: 14px;
   font-weight: 700;
@@ -287,7 +287,7 @@ span.shoping-count {
 }
 
 .welcome-btn a.read-btn:hover {
-  color: #003445;
+  color: #00999e;
   background: #fff;
 }
 
@@ -297,12 +297,12 @@ span.shoping-count {
 }
 
 .welcome-btn a.buy-btn:hover {
-  background: #fde428;
-  color: #003445;
+  background: #8b173b;
+  color: #00999e;
 }
 
 /*.welcome-btn a.buy-btn.hvr-sweep-to-left:before {
-    background: #fde428;
+    background: #8B173B;
 }
 
 .welcome-btn a.read-btn.hvr-sweep-to-right:before {
@@ -325,7 +325,7 @@ span.shoping-count {
 }
 
 .welcome-text .hero-subtitle {
-  color: #fde428;
+  color: #8b173b;
   padding-bottom: 30px;
 }
 
@@ -349,7 +349,7 @@ span.shoping-count {
 }
 
 .single-why-chose::before {
-  background: #fde428 none repeat scroll 0 0;
+  background: #8b173b none repeat scroll 0 0;
   content: "";
   height: 80px;
   left: -10px;
@@ -368,7 +368,7 @@ span.shoping-count {
   bottom: -75%;
   left: 0;
   position: absolute;
-  background: rgba(0, 52, 69, 0.85);
+  background: #00999e;
   width: 100%;
   height: 100%;
   padding-right: 30px;
@@ -403,7 +403,7 @@ span.shoping-count {
 /*end of hover efffect*/
 
 .why-content a {
-  color: #fde428;
+  color: #8b173b;
   font-size: 14px;
   font-weight: 700;
   text-transform: uppercase;
@@ -430,7 +430,7 @@ span.shoping-count {
 }
 
 .service-ttile > h4 {
-  color: #003445;
+  color: #00999e;
   font-size: 18px;
   font-weight: 700;
   line-height: 90px;
@@ -443,8 +443,8 @@ span.shoping-count {
 }
 
 .service-icon {
-  background: #003445 none repeat scroll 0 0;
-  color: #fde428;
+  background: #00999e none repeat scroll 0 0;
+  color: #8b173b;
   float: left;
   font-size: 40px;
   height: 80px;
@@ -459,7 +459,8 @@ span.shoping-count {
 }
 
 /*.avacus-single-services:hover .icon{
-    fill:#003445;
+    fill:#00999E
+;
 }
 
 .icon {
@@ -487,14 +488,14 @@ span.shoping-count {
 }
 
 .services-trim-content p {
-  color: #003445;
+  color: #00999e;
   font-size: 14px;
   font-weight: 400;
   line-height: 24px;
 }
 
 .services-trim-content a {
-  color: #003445;
+  color: #00999e;
   display: inline-block;
   font-weight: 700;
   margin-top: 30px;
@@ -508,11 +509,11 @@ span.shoping-count {
 }
 
 .services-trim-content a:hover {
-  color: #fde428;
+  color: #8b173b;
 }
 
 .avacus-single-services:hover .service-icon {
-  background: #fde428;
+  background: #8b173b;
   color: #023545;
 }
 
@@ -537,19 +538,19 @@ span.shoping-count {
   height: 100%;
   left: 0;
   top: 0;
-  background: rgba(0, 52, 69, 0.85);
+  background: #00999e;
   content: "";
 }
 
 .single-count-down .counter {
-  color: #fde428;
+  color: #8b173b;
   font-size: 35px;
   font-weight: 700;
 }
 
 .single-count-down {
   padding-left: 20px;
-  border-left: 5px solid #fde428;
+  border-left: 5px solid #8b173b;
   color: #fff;
 }
 
@@ -593,7 +594,7 @@ section.avacus-latest-project-section {
   left: 0;
   top: 50%;
   content: "";
-  background: rgba(0, 52, 69, 0.85);
+  background: #00999e;
   transition: 0.4s;
   opacity: 0;
   visibility: hidden;
@@ -625,7 +626,7 @@ section.avacus-latest-project-section {
   font-weight: 700;
   margin-top: 30px;
   display: inline-block;
-  color: #fde428;
+  color: #8b173b;
   transition: 0.4s;
 }
 
@@ -660,7 +661,7 @@ section.avacus-latest-project-section {
 }
 
 .latest-project-slider ul.slick-dots li.slick-active button {
-  background: #fde428;
+  background: #8b173b;
 }
 
 .project-caption h3 {
@@ -692,7 +693,7 @@ section.avacus-latest-project-section {
 /*end of avacus latest project css*/
 
 .avacus-singel-testimonial {
-  background: #003445;
+  background: #00999e;
   color: #fff;
   padding: 30px;
   position: relative;
@@ -700,8 +701,8 @@ section.avacus-latest-project-section {
 }
 
 .avacus-singel-testimonial::before {
-  border-left: 10px solid #fde428;
-  border-top: 10px solid #fde428;
+  border-left: 10px solid #8b173b;
+  border-top: 10px solid #8b173b;
   content: "";
   height: 85px;
   left: -10px;
@@ -740,7 +741,7 @@ section.avacus-latest-project-section {
 }
 
 .client-rating {
-  color: #fde428;
+  color: #8b173b;
 }
 
 .clientprev {
@@ -758,7 +759,7 @@ section.avacus-latest-project-section {
 }
 
 .clientprev:hover {
-  color: #003445;
+  color: #00999e;
 }
 
 .clientnext {
@@ -776,14 +777,14 @@ section.avacus-latest-project-section {
 }
 
 .clientnext:hover {
-  color: #003445;
+  color: #00999e;
 }
 
 /*start avasuc quote section*/
 
 .avacus-quote-section {
-  background: #fde428;
-  color: #003445;
+  background: #8b173b;
+  color: #00999e;
   padding: 50px 0;
 }
 
@@ -791,7 +792,7 @@ section.avacus-latest-project-section {
   display: inline-block;
   text-transform: uppercase;
   font-weight: 700;
-  background: #003445;
+  background: #00999e;
   color: #fff;
   width: 160px;
   text-align: center;
@@ -801,7 +802,7 @@ section.avacus-latest-project-section {
 }
 
 .quote-btn a:hover {
-  color: #003445;
+  color: #00999e;
   background: #fff;
 }
 
@@ -819,12 +820,12 @@ section.avacus-latest-project-section {
 /*start avacus consultataion seciton*/
 
 .avacus-consultation-section {
-  background: #003445;
+  background: #00999e;
 }
 
 .consultation-text h2 span {
   display: block;
-  color: #fde428;
+  color: #8b173b;
 }
 
 .consultation-text {
@@ -866,30 +867,30 @@ section.avacus-latest-project-section {
 .single-inpuut input {
   width: 100%;
   height: 50px;
-  color: #003445;
+  color: #00999e;
   font-weight: 500;
   padding-left: 10px;
 }
 
 .single-inpuut input::-webkit-input-placeholder {
   /* Chrome/Opera/Safari */
-  color: #003445;
+  color: #00999e;
   font-weight: 400;
 }
 
 .single-inpuut input::-moz-placeholder {
   /* Firefox 19+ */
-  color: #003445;
+  color: #00999e;
 }
 
 .single-inpuut input:-ms-input-placeholder {
   /* IE 10+ */
-  color: #003445;
+  color: #00999e;
 }
 
 .single-inpuut input:-moz-placeholder {
   /* Firefox 18- */
-  color: #003445;
+  color: #00999e;
 }
 
 h3.fomr-title {
@@ -905,14 +906,14 @@ h3.fomr-title {
   text-transform: uppercase;
   margin-top: 15px;
   border: 0;
-  background: #fde428;
-  color: #003445;
+  background: #8b173b;
+  color: #00999e;
   font-weight: 700;
   transition: 0.4s;
 }
 
 .submit-button input:hover {
-  color: #003445;
+  color: #00999e;
   background: #fff;
 }
 
@@ -947,7 +948,7 @@ h3.fomr-title {
   width: 100%;
   height: 100%;
   text-align: center;
-  background: rgba(0, 52, 69, 0.85);
+  background: #00999e;
   transition: 0.4s;
   transform: scale(5);
   opacity: 0;
@@ -980,19 +981,19 @@ h3.fomr-title {
   margin-top: 30px;
   line-height: 35px;
   font-size: 24px;
-  color: #003445;
+  color: #00999e;
 }
 
 .news-details a {
   font-size: 13px;
-  color: #003445;
+  color: #00999e;
   display: inline-block;
   margin-right: 10px;
   font-weight: 400;
 }
 
 .news-details a span {
-  color: #fde428;
+  color: #8b173b;
   padding-right: 10px;
 }
 
@@ -1028,7 +1029,7 @@ h3.fomr-title {
 /*start avacus footer section*/
 
 footer.avacus-footer-section {
-  background: #003445 none repeat scroll 0 0;
+  background: #00999e none repeat scroll 0 0;
   color: #fff;
   padding: 70px 0;
 }
@@ -1047,7 +1048,7 @@ footer.avacus-footer-section {
   position: absolute;
   width: 40px;
   height: 3px;
-  background: #fde428;
+  background: #8b173b;
   content: "";
   left: 0;
   bottom: 0;
@@ -1058,7 +1059,7 @@ footer.avacus-footer-section {
 }
 
 .wedget > a {
-  color: #fde428;
+  color: #8b173b;
   margin-top: 20px;
   display: inline-block;
   text-transform: uppercase;
@@ -1083,7 +1084,7 @@ footer.avacus-footer-section {
 }
 
 .wedget ul li a:hover {
-  color: #fde428;
+  color: #8b173b;
 }
 
 .wedget h5 span {
@@ -1108,8 +1109,8 @@ footer.avacus-footer-section {
 }
 
 .wedget .social-icon a:hover {
-  background: #fde428;
-  color: #003445;
+  background: #8b173b;
+  color: #00999e;
 }
 
 .wedget .social-icon {
@@ -1123,7 +1124,7 @@ footer.avacus-footer-section {
 }
 
 .copyright-secton a {
-  color: #fde428;
+  color: #8b173b;
 }
 
 /*end of avacus footer section*/
@@ -1145,7 +1146,7 @@ footer.avacus-footer-section {
   height: 100%;
   left: 0;
   top: 0;
-  background: rgba(0, 52, 69, 0.85);
+  background: #00999e;
   content: "";
 }
 
@@ -1163,7 +1164,7 @@ footer.avacus-footer-section {
 }
 
 .page-title h2 span {
-  color: #fde428;
+  color: #8b173b;
 }
 
 .breadcrumb {
@@ -1182,7 +1183,7 @@ footer.avacus-footer-section {
 .breadcrumb li,
 .breadcrumb a,
 .breadcrumb li.active {
-  color: #003445;
+  color: #00999e;
   font-size: 14px;
   font-weight: 400;
 }
@@ -1194,8 +1195,8 @@ section.avacus-shop-page-section {
 .widget button {
   width: 50px;
   height: 50px;
-  background: #fde428;
-  color: #003445;
+  background: #8b173b;
+  color: #00999e;
   display: inline-block;
   margin-left: -4px;
   font-weight: 700;
@@ -1204,7 +1205,7 @@ section.avacus-shop-page-section {
 }
 
 .widget button:hover {
-  background: #003445;
+  background: #00999e;
   color: #fff;
 }
 
@@ -1231,7 +1232,7 @@ section.avacus-shop-page-section {
 }
 
 .widget ul li a {
-  color: #003445;
+  color: #00999e;
   font-size: 14px;
   font-weight: 400;
   line-height: 24px;
@@ -1240,7 +1241,7 @@ section.avacus-shop-page-section {
 }
 
 .widget a:hover {
-  color: #fde428;
+  color: #8b173b;
 }
 
 .widget ul li {
@@ -1251,7 +1252,7 @@ section.avacus-shop-page-section {
 }
 
 .tag a:hover {
-  color: #003445;
+  color: #00999e;
 }
 
 .widget ul li:last-child {
@@ -1262,8 +1263,8 @@ button.filtedr {
   border: navajowhite;
   border-radius: 3px;
   text-transform: uppercase;
-  color: #003445;
-  background: #fde428;
+  color: #00999e;
+  background: #8b173b;
   width: 80px;
   height: 50px;
   font-size: 14px;
@@ -1311,8 +1312,8 @@ div#slider-3 {
 
 a.ui-slider-handle.ui-state-default.ui-corner-all.ui-state-hover {
   border-radius: 50%;
-  background: #fde428;
-  border-color: #fde428;
+  background: #8b173b;
+  border-color: #8b173b;
 }
 
 a.ui-slider-handle.ui-state-default.ui-corner-all {
@@ -1327,13 +1328,13 @@ a.ui-slider-handle.ui-state-default.ui-corner-all {
 .ui-slider-horizontal .ui-slider-range {
   top: 0;
   height: 100%;
-  background: #fde428;
+  background: #8b173b;
   height: 6px;
   top: -1px;
 }
 
 .single-popular a {
-  color: #003445;
+  color: #00999e;
 }
 
 .popular-img {
@@ -1357,7 +1358,7 @@ a.ui-slider-handle.ui-state-default.ui-corner-all {
 }
 
 .puplar-rating span {
-  color: #fde428;
+  color: #8b173b;
 }
 
 .single-popular {
@@ -1377,7 +1378,7 @@ a.ui-slider-handle.ui-state-default.ui-corner-all {
 }
 
 .widget > a:hover {
-  background: #fde428;
+  background: #8b173b;
 }
 
 /*end of avacus shop page css*/
@@ -1513,7 +1514,7 @@ a.ui-slider-handle.ui-state-default.ui-corner-all {
 }
 
 .add-to-cart:hover {
-  background: #fde428;
+  background: #8b173b;
   color: #003455;
 }
 
@@ -1575,7 +1576,7 @@ a.ui-slider-handle.ui-state-default.ui-corner-all {
 }
 
 .basick-hisab > li span {
-  color: #fde428;
+  color: #8b173b;
   padding-left: 10px;
 }
 
@@ -1595,7 +1596,7 @@ a.ui-slider-handle.ui-state-default.ui-corner-all {
 }
 
 .total-hisab {
-  background: #fde428 none repeat scroll 0 0;
+  background: #8b173b none repeat scroll 0 0;
   padding-left: 20px;
   padding-right: 20px;
 }
@@ -1652,7 +1653,7 @@ a.ui-slider-handle.ui-state-default.ui-corner-all {
 }
 
 .roundedOne label::after {
-  background: #fde428;
+  background: #8b173b;
   border-radius: 50px;
   content: "";
   height: 12px;
@@ -1676,13 +1677,13 @@ a.ui-slider-handle.ui-state-default.ui-corner-all {
 }
 
 .select-pay-method {
-  background: #003445 none repeat scroll 0 0;
+  background: #00999e none repeat scroll 0 0;
   color: #fff;
   padding: 40px 20px;
 }
 
 .order-button.hvr-bounce-out {
-  background: #fde428 none repeat scroll 0 0;
+  background: #8b173b none repeat scroll 0 0;
   color: #003455;
   display: block;
   font-weight: 700;
@@ -1740,7 +1741,7 @@ a.ui-slider-handle.ui-state-default.ui-corner-all {
   height: 100%;
   left: 0;
   top: 0;
-  background: rgba(0, 52, 69, 0.85);
+  background: #00999e;
   content: "";
 }
 
@@ -1774,7 +1775,7 @@ a.ui-slider-handle.ui-state-default.ui-corner-all {
 
 /*
 .company-video::before {
-    background: #fde428 none repeat scroll 0 0;
+    background: #8B173B none repeat scroll 0 0;
     content: "";
     height: 100px;
     left: -10px;
@@ -1785,7 +1786,7 @@ a.ui-slider-handle.ui-state-default.ui-corner-all {
 
 .vdoverly {
   position: absolute;
-  background: rgba(0, 52, 69, 0.85);
+  background: #00999e;
   width: 100%;
   height: 100%;
   left: 0;
@@ -1795,7 +1796,7 @@ a.ui-slider-handle.ui-state-default.ui-corner-all {
 
 .historyvdoverly {
   position: absolute;
-  background: rgba(0, 52, 69, 0.85);
+  background: #00999e;
   width: 100%;
   height: 100%;
   left: 0;
@@ -1847,7 +1848,7 @@ a.ui-slider-handle.ui-state-default.ui-corner-all {
 }
 
 .single-history::after {
-  background: #fde428 none repeat scroll 0 0;
+  background: #8b173b none repeat scroll 0 0;
   border-radius: 50%;
   content: "";
   height: 10px;
@@ -1897,7 +1898,7 @@ a.ui-slider-handle.ui-state-default.ui-corner-all {
 .team-social-icon a {
   background: #ffffff none repeat scroll 0 0;
   border-radius: 50%;
-  color: #003445;
+  color: #00999e;
   display: inline-block;
   font-size: 18px;
   height: 50px;
@@ -1910,8 +1911,8 @@ a.ui-slider-handle.ui-state-default.ui-corner-all {
 }
 
 .team-social-icon a:hover {
-  background: #fde428;
-  color: #003445;
+  background: #8b173b;
+  color: #00999e;
 }
 
 .team-social-icon a:last-child {
@@ -1919,7 +1920,7 @@ a.ui-slider-handle.ui-state-default.ui-corner-all {
 }
 
 .team-picture::before {
-  background-color: rgba(0, 52, 69, 0.85);
+  background-color: #00999e;
   content: "";
   height: 100%;
   left: 0;
@@ -2013,11 +2014,11 @@ a.ui-slider-handle.ui-state-default.ui-corner-all {
   left: 0;
   top: 0;
   position: absolute;
-  background-color: rgba(0, 52, 69, 0.85);
+  background-color: #00999e;
 }
 
 .subscribe-form {
-  color: #003445;
+  color: #00999e;
 }
 
 .subscribe-form input[type="email"] {
@@ -2040,10 +2041,10 @@ a.ui-slider-handle.ui-state-default.ui-corner-all {
 }
 
 .subscribe-form input[type="submit"] {
-  background-color: #fde428;
+  background-color: #8b173b;
   border: 0 none;
   border-radius: 0;
-  color: #003445;
+  color: #00999e;
   font-weight: 700;
   height: 50px;
   width: 160px;
@@ -2053,7 +2054,7 @@ a.ui-slider-handle.ui-state-default.ui-corner-all {
 
 .subscribe-form input[type="submit"]:hover {
   background: #fff;
-  color: #003445;
+  color: #00999e;
 }
 
 .news-latter-title > h2 {
@@ -2062,7 +2063,7 @@ a.ui-slider-handle.ui-state-default.ui-corner-all {
 }
 
 .news-latter-title > h2 span {
-  color: #fde428;
+  color: #8b173b;
 }
 
 .news-latter-title > h4 {
@@ -2100,7 +2101,7 @@ section.avacus-testimonial-section.section-padding.testimonial-page {
 }
 
 .testimonial-thumb > img {
-  border: 5px solid #003445;
+  border: 5px solid #00999e;
   border-radius: 50%;
 }
 
@@ -2125,7 +2126,7 @@ section.premium-testimonia-section {
 }
 
 .rating {
-  color: #fde428;
+  color: #8b173b;
   margin-top: 15px;
 }
 
@@ -2169,7 +2170,7 @@ section.premium-testimonia-section {
 }
 
 .services-category a:hover {
-  background: #003445;
+  background: #00999e;
   color: #fff;
 }
 
@@ -2180,7 +2181,7 @@ section.premium-testimonia-section {
 
 .sideimg-title a {
   font-size: 14px;
-  background: #003445 none repeat scroll 0 0;
+  background: #00999e none repeat scroll 0 0;
   color: #fff;
   padding: 15px;
   display: block;
@@ -2188,8 +2189,8 @@ section.premium-testimonia-section {
 }
 
 .sideimg-title a:hover {
-  background: #fde428;
-  color: #003445;
+  background: #8b173b;
+  color: #00999e;
 }
 
 .sideimg-title a span {
@@ -2201,7 +2202,7 @@ section.premium-testimonia-section {
 }
 
 .contact-us-widget {
-  background: #fde428 none repeat scroll 0 0;
+  background: #8b173b none repeat scroll 0 0;
   padding: 30px 30px;
 }
 
@@ -2221,7 +2222,7 @@ section.premium-testimonia-section {
 
 .get-quate-btn {
   background: #fff none repeat scroll 0 0;
-  color: #003445;
+  color: #00999e;
   display: block;
   font-weight: 700;
   height: 50px;
@@ -2234,7 +2235,7 @@ section.premium-testimonia-section {
 }
 
 .get-quate-btn:hover {
-  background: #003445;
+  background: #00999e;
   color: #fff;
 }
 
@@ -2263,7 +2264,7 @@ section.premium-testimonia-section {
 }
 
 blockquote {
-  border-color: #fde428;
+  border-color: #8b173b;
   font-size: 18px;
   font-style: italic;
   line-height: 32px;
@@ -2296,7 +2297,7 @@ blockquote {
 }
 
 .case-list li::before {
-  background: #fde428 none repeat scroll 0 0;
+  background: #8b173b none repeat scroll 0 0;
   border-radius: 50%;
   color: #fff;
   content: "";
@@ -2321,7 +2322,7 @@ blockquote {
 
 .panel-heading::before {
   background: transparent none repeat scroll 0 0;
-  color: #003445;
+  color: #00999e;
   content: "";
   font-family: fontawesome;
   font-size: 15px;
@@ -2346,7 +2347,7 @@ h4.panel-title {
 .panel-title a {
   display: block;
   padding: 15px 30px;
-  color: #003445;
+  color: #00999e;
   font-size: 14px;
   font-family: "Poppins", sans-serif !important;
   line-height: 24px;
@@ -2368,7 +2369,7 @@ h4.panel-title {
 }
 
 .panel-heading.active .panel-title {
-  background: #003445;
+  background: #00999e;
 }
 
 .panel-heading.active a {
@@ -2385,7 +2386,7 @@ h4.panel-title {
   border-radius: 0;
   border: 0;
   background: #fff;
-  color: #003445;
+  color: #00999e;
   font-size: 14px;
   border-right: 5px solid #f2f3f4;
   padding-top: 20px;
@@ -2400,7 +2401,7 @@ h4.panel-title {
 .nav-tabs.nav-justified > .active > a:focus,
 .nav-tabs.nav-justified > .active > a:hover {
   border: 0;
-  background: #003445;
+  background: #00999e;
   color: #fff;
 }
 
@@ -2411,7 +2412,7 @@ h4.panel-title {
 }
 
 .services-tab-content h2 span {
-  color: #fde428;
+  color: #8b173b;
 }
 
 .services-tab-content p {
@@ -2452,7 +2453,7 @@ a.show-more {
   display: inline-block;
   text-align: center;
   line-height: 50px;
-  background: #003445;
+  background: #00999e;
   color: #fff;
   font-weight: 700;
   margin-top: 50px;
@@ -2460,8 +2461,8 @@ a.show-more {
 }
 
 a.show-more:hover {
-  background: #fde428;
-  color: #003445;
+  background: #8b173b;
+  color: #00999e;
 }
 
 /*end of tab css*/
@@ -2488,7 +2489,7 @@ ul.project-nav li {
 
 ul.project-nav li.current,
 ul.project-nav li:hover {
-  color: #fde428;
+  color: #8b173b;
 }
 
 .projectpage .avacus-single-project {
@@ -2512,7 +2513,7 @@ textarea.faqmessage {
 
 textarea.faqmessage::-webkit-input-placeholder {
   opacity: 1;
-  color: #003445;
+  color: #00999e;
   font-weight: 400;
 }
 
@@ -2526,7 +2527,7 @@ textarea.faqmessage::-webkit-input-placeholder {
 .faqpage:before {
   position: absolute;
   content: "";
-  background: rgba(0, 52, 69, 0.85);
+  background: #00999e;
   width: 100%;
   height: 100%;
   left: 0;
@@ -2572,8 +2573,8 @@ section.avacus-partners-section {
   top: -10px;
   background: transparent;
   content: "";
-  border-left: 10px solid #fde428;
-  border-top: 10px solid #fde428;
+  border-left: 10px solid #8b173b;
+  border-top: 10px solid #8b173b;
 }
 
 .partners-content h3 {
@@ -2587,7 +2588,7 @@ h4.partners-state {
 }
 
 h4.partners-state span {
-  color: #fde428;
+  color: #8b173b;
   padding-right: 10px;
 }
 
@@ -2608,7 +2609,7 @@ h4.partners-state span {
 }
 
 .sigle-blog-post > h3 {
-  color: #003445;
+  color: #00999e;
   font-weight: 700;
   margin-top: 20px;
   margin-bottom: 10px;
@@ -2616,7 +2617,7 @@ h4.partners-state span {
 }
 
 .sigle-blog-post a h3 {
-  color: #003445;
+  color: #00999e;
   font-weight: 700;
   margin-top: 20px;
   margin-bottom: 10px;
@@ -2624,17 +2625,17 @@ h4.partners-state span {
 }
 
 .sigle-blog-post a h3:hover {
-  color: #fde428;
+  color: #8b173b;
 }
 
 .post-date span {
   font-size: 14px;
-  color: #fde428;
+  color: #8b173b;
   padding-right: 10px;
 }
 
 .post-date a {
-  color: #003445;
+  color: #00999e;
   margin-left: 15px;
 }
 
@@ -2659,7 +2660,7 @@ h4.partners-state span {
 }
 
 .tag.posttag a {
-  color: #003445;
+  color: #00999e;
   margin-right: 10px;
   transition: 0.4s;
 }
@@ -2670,7 +2671,7 @@ h4.partners-state span {
 }
 
 .tag.posttag a:hover {
-  color: #fde428;
+  color: #8b173b;
 }
 
 .share a {
@@ -2679,15 +2680,15 @@ h4.partners-state span {
   display: inline-block;
   color: #fff;
   text-align: center;
-  background: #003445;
+  background: #00999e;
   line-height: 40px;
   border-radius: 6px;
   transition: 0.4s;
 }
 
 .share a:hover {
-  color: #003445;
-  background: #fde428;
+  color: #00999e;
+  background: #8b173b;
 }
 
 .share {
@@ -2721,12 +2722,12 @@ h4.partners-state span {
 
 .author-details a {
   display: inline-block;
-  color: #003445;
+  color: #00999e;
   margin-right: 10px;
 }
 
 .author-details a:hover {
-  color: #fde428;
+  color: #8b173b;
 }
 
 .author.comments .author-img {
@@ -2756,7 +2757,7 @@ h4.partners-state span {
 }
 
 .reply-button {
-  color: #fde428;
+  color: #8b173b;
   display: inline-block;
   font-weight: 700;
   margin-top: 20px;
@@ -2765,7 +2766,7 @@ h4.partners-state span {
 }
 
 .reply-button:hover {
-  color: #003445;
+  color: #00999e;
 }
 
 .author.comments {
@@ -2819,7 +2820,7 @@ h4.partners-state span {
 }
 
 .input-submit input {
-  background: #fde428 none repeat scroll 0 0;
+  background: #8b173b none repeat scroll 0 0;
   border: 0 none;
   font-weight: 700;
   height: 50px;
@@ -2841,8 +2842,8 @@ h4.partners-state span {
 }
 
 .sidebar button {
-  background: #fde428 none repeat scroll 0 0;
-  color: #003445;
+  background: #8b173b none repeat scroll 0 0;
+  color: #00999e;
   font-weight: 700;
   height: 50px;
   margin-left: -4px;
@@ -2851,7 +2852,7 @@ h4.partners-state span {
 }
 
 .sidebar button:hover {
-  background: #003445;
+  background: #00999e;
   color: #fff;
 }
 
@@ -2864,7 +2865,7 @@ h4.partners-state span {
 
 .sidebar ul li a {
   border-bottom: 1px solid #d9e0e2;
-  color: #003445;
+  color: #00999e;
   display: block;
   line-height: 24px;
   margin-bottom: 20px;
@@ -2874,7 +2875,7 @@ h4.partners-state span {
 }
 
 .sidebar ul li a:hover {
-  color: #fde428;
+  color: #8b173b;
 }
 
 .sidebar ul li a span {
@@ -2892,7 +2893,7 @@ h4.partners-state span {
 }
 
 .single-recent-post a {
-  color: #003445;
+  color: #00999e;
   transition: 0.4s;
 }
 
@@ -2907,7 +2908,7 @@ h4.partners-state span {
 }
 
 .recent-content > p span {
-  color: #fde428;
+  color: #8b173b;
   padding-right: 10px;
 }
 
@@ -2918,11 +2919,11 @@ h4.partners-state span {
 }
 
 .single-recent-post a:hover p:first-child {
-  color: #fde428;
+  color: #8b173b;
 }
 
 .sidebar.subcribe-widget {
-  background: #003445 none repeat scroll 0 0;
+  background: #00999e none repeat scroll 0 0;
   color: #fff;
   padding: 30px 20px;
 }
@@ -2930,7 +2931,7 @@ h4.partners-state span {
 .sidebar.subcribe-widget > h3 {
   font-weight: 700;
   margin-bottom: 20px;
-  color: #fde428;
+  color: #8b173b;
 }
 
 .subcribe-form {
@@ -2938,14 +2939,14 @@ h4.partners-state span {
 }
 
 .input-submit input:hover {
-  background: #003445 none repeat scroll 0 0;
+  background: #00999e none repeat scroll 0 0;
   color: #fff;
 }
 
 .sidebar.subcribe-widget .subcribe-form input {
   float: left;
   width: 176px;
-  color: #003445;
+  color: #00999e;
 }
 
 /*end of blog area*/
@@ -2973,7 +2974,7 @@ h4.partners-state span {
   font-family: fontawesome;
   left: 0;
   font-size: 20px;
-  color: #fde428;
+  color: #8b173b;
   top: 50%;
   margin-top: -21px;
 }
@@ -3043,7 +3044,7 @@ section.contact-form-section {
 .single-ceo-address {
   overflow: hidden;
   padding: 20px;
-  background: #003445;
+  background: #00999e;
   color: #fff;
   margin-bottom: 30px;
 }
@@ -3054,7 +3055,7 @@ section.contact-form-section {
 
 .single-ceo-address p span {
   padding-right: 10px;
-  color: #fde428;
+  color: #8b173b;
 }
 
 .single-ceo-address p {
@@ -3072,8 +3073,8 @@ section.contact-form-section {
 button.submit[type="submit"] {
   width: 100%;
   height: 50px;
-  background: #fde428;
-  color: #003445;
+  background: #8b173b;
+  color: #00999e;
   text-transform: uppercase;
   font-weight: 700;
   margin-top: 20px;
@@ -3083,7 +3084,7 @@ button.submit[type="submit"] {
 }
 
 button.submit[type="submit"]:hover {
-  background: #003445;
+  background: #00999e;
   color: #fff;
 }
 
@@ -3108,7 +3109,7 @@ button.submit[type="submit"]:hover {
   height: 100%;
   left: 0;
   top: 0;
-  background-color: rgba(0, 52, 69, 0.85);
+  background-color: #00999e;
   content: "";
   background-image: url(img/plus.png);
   background-repeat: no-repeat;
@@ -3183,12 +3184,12 @@ h3.privew-title {
   text-align: center;
   transition: 0.4s;
   background: #e5e5e5;
-  color: #003445;
+  color: #00999e;
   font-weight: 700;
 }
 
 .plus-minus span:hover {
-  background-color: #003445;
+  background-color: #00999e;
   color: #fff;
 }
 
@@ -3198,15 +3199,15 @@ a.addtoCart {
   text-align: center;
   height: 50px;
   line-height: 50px;
-  background: #003445;
+  background: #00999e;
   color: #fff;
   font-weight: 700;
   transition: 0.4s;
 }
 
 a.addtoCart:hover {
-  background: #fde428;
-  color: #003445;
+  background: #8b173b;
+  color: #00999e;
 }
 
 .single-pagetab {
@@ -3224,7 +3225,7 @@ a.addtoCart:hover {
   line-height: 50px;
   padding: 0;
   text-transform: uppercase;
-  background: #003445;
+  background: #00999e;
   color: #fff;
   font-weight: 700;
   margin-right: 10px;
@@ -3233,14 +3234,14 @@ a.addtoCart:hover {
 
 .single-pagetab.nav-tabs > li > a:hover,
 .single-pagetab.nav-tabs > li.active > a {
-  background: #fde428;
-  color: #003445;
+  background: #8b173b;
+  color: #00999e;
 }
 
 ui-state-default,
 .ui-widget-content .ui-state-default,
 .ui-widget-header .ui-state-default {
-  border: 4px solid #003445;
+  border: 4px solid #00999e;
   border-radius: 50%;
   top: -7px;
   background: #fff;
@@ -3305,7 +3306,7 @@ tr th {
 }
 
 thead {
-  background: #003445;
+  background: #00999e;
   color: #fff;
 }
 
@@ -3322,12 +3323,12 @@ thead {
   text-align: center;
   transition: 0.4s;
   background: #e5e5e5;
-  color: #003445;
+  color: #00999e;
   font-weight: 700;
 }
 
 .plus-minus span:hover {
-  background-color: #003445;
+  background-color: #00999e;
   color: #fff;
 }
 
@@ -3365,7 +3366,7 @@ input[type="number"] {
 button.update-cart {
   width: 160px;
   height: 50px;
-  background: #003445;
+  background: #00999e;
   color: #fff;
   font-weight: 700;
   text-transform: uppercase;
@@ -3390,8 +3391,8 @@ input.coupon {
 }
 
 button.update-cart:hover {
-  background: #fde428;
-  color: #003445;
+  background: #8b173b;
+  color: #00999e;
 }
 
 .calculate-shpping input {
@@ -3414,7 +3415,7 @@ h3.calculate-title {
 }
 
 .cart-totals ul {
-  background: #003445;
+  background: #00999e;
   padding: 20px;
   padding-bottom: 10px;
   padding-top: 10px;
@@ -3435,7 +3436,7 @@ h3.calculate-title {
 }
 
 button.holud-default {
-  background: #fde428;
+  background: #8b173b;
   padding: 15px 30px;
   text-transform: uppercase;
   font-weight: 700;
@@ -3448,7 +3449,7 @@ button.holud-default {
 }
 
 button.holud-default:hover {
-  background: #003445;
+  background: #00999e;
   color: #fff;
 }
 
@@ -3459,7 +3460,7 @@ section.avacus-sign-up {
 }
 
 button.login-btn {
-  background: #003445;
+  background: #00999e;
   color: #fff;
   text-transform: uppercase;
   font-weight: 700;
@@ -3472,8 +3473,8 @@ button.login-btn {
 }
 
 button.login-btn:hover {
-  background: #fde428;
-  color: #003445;
+  background: #8b173b;
+  color: #00999e;
 }
 
 .loging-form .form-control {
@@ -3482,13 +3483,13 @@ button.login-btn:hover {
   border-radius: 0;
   border: 0 !important;
   box-shadow: none !important;
-  color: #003445;
+  color: #00999e;
   background: #fff;
   margin-top: 10px;
 }
 
 a.forget-pass {
-  color: #003445;
+  color: #00999e;
   font-size: 14px;
   margin-top: 38px;
   display: block;
@@ -3496,7 +3497,7 @@ a.forget-pass {
 }
 
 a.forget-pass:hover {
-  color: #fde428;
+  color: #8b173b;
 }
 
 h3.login-title {
@@ -3542,7 +3543,7 @@ checkbox design
   opacity: 1;
   -webkit-transform: rotate(-45deg);
   transform: rotate(-45deg);
-  color: #003445;
+  color: #00999e;
 }
 
 .squaredThree label:hover::after {
@@ -3555,11 +3556,11 @@ checkbox design
 
 .squaredThree input[type="checkbox"]:checked + label:after {
   opacity: 1;
-  color: #003445;
-  border-color: #003445;
+  color: #00999e;
+  border-color: #00999e;
 }
 .squaredThree input[type="checkbox"]:checked + label {
-  background: #fde428;
+  background: #8b173b;
 }
 span.remember {
   margin-left: 20px;
@@ -3590,7 +3591,7 @@ section.avacus-404page.section-padding {
 .avacus-404page h1 {
   font-size: 150px;
   font-weight: 700;
-  color: #fde428;
+  color: #8b173b;
   margin-top: 50px;
   padding-bottom: 30px;
   line-height: 150px;
@@ -3607,8 +3608,8 @@ a.backtohome {
   height: 50px;
   line-height: 50px;
   display: inline-block;
-  background: #fde428;
-  color: #003445;
+  background: #8b173b;
+  color: #00999e;
   text-transform: uppercase;
   font-weight: 700;
   margin-top: 55px;
@@ -3616,7 +3617,7 @@ a.backtohome {
 }
 
 a.backtohome:hover {
-  background: #003445;
+  background: #00999e;
   color: #fff;
 }
 
@@ -3628,7 +3629,7 @@ a.blog-read {
   width: 160px;
   height: 50px;
   line-height: 50px;
-  background: #003445;
+  background: #00999e;
   color: #fff;
   display: inline-block;
   text-align: center;
@@ -3639,8 +3640,8 @@ a.blog-read {
 }
 
 a.blog-read:hover {
-  background: #fde428;
-  color: #003445;
+  background: #8b173b;
+  color: #00999e;
 }
 
 .large-preview {
@@ -3665,7 +3666,7 @@ section.avacus-blogpage-area {
   width: 100px;
   height: 100px;
   left: -10px;
-  background: #fde428;
+  background: #8b173b;
   content: "";
   z-index: -1;
   top: -10px;
@@ -3695,12 +3696,12 @@ a.normal-readmore {
   display: block;
   text-transform: uppercase;
   font-weight: 700;
-  color: #003445;
+  color: #00999e;
   transition: 0.4s;
 }
 
 a.normal-readmore:hover {
-  color: #fde428;
+  color: #8b173b;
 }
 
 a.normal-readmore span {
@@ -3745,8 +3746,8 @@ section.single-project-page-area {
 
 .project-widget {
   padding: 50px 30px;
-  background: #003445;
-  color: #fde428;
+  background: #00999e;
+  color: #8b173b;
 }
 
 .project-widget h4 {
@@ -3832,8 +3833,8 @@ ul.featured-list li:before {
   text-align: center;
   border-radius: 50%;
   line-height: 14px;
-  color: #fde428;
-  border: 1px solid #fde428;
+  color: #8b173b;
+  border: 1px solid #8b173b;
 }
 
 .calculate-shpping .single-input-contact {
@@ -3899,11 +3900,11 @@ ul.featured-list li:before {
 .reviewr-details h4 {
   font-weight: 700;
   margin-bottom: 5px;
-  color: #003445;
+  color: #00999e;
 }
 
 .reviews-tab i {
-  color: #fde428;
+  color: #8b173b;
 }
 
 .single-review {
@@ -3980,9 +3981,9 @@ a.button-tow {
   width: 160px;
   height: 50px;
   text-align: center;
-  background: #fde428;
+  background: #8b173b;
   line-height: 50px;
-  color: #003445;
+  color: #00999e;
   font-weight: 700;
   text-transform: uppercase;
   margin-left: 10px;
@@ -3990,7 +3991,7 @@ a.button-tow {
 }
 
 a.button-tow:hover {
-  background: #003445;
+  background: #00999e;
   color: #fff;
 }
 
@@ -4003,7 +4004,7 @@ section.button-section:before {
   right: 0;
   top: 0;
   content: "";
-  background: #003445;
+  background: #00999e;
   width: 50%;
   height: 100%;
 }
@@ -4028,11 +4029,11 @@ a.button-three {
   width: 160px;
   height: 50px;
   line-height: 50px;
-  background: #fde428;
+  background: #8b173b;
   display: inline-block;
   text-align: center;
   font-weight: 700;
-  color: #003445;
+  color: #00999e;
   text-transform: uppercase;
   margin-right: 10px;
   transition: 0.4s;
@@ -4040,7 +4041,7 @@ a.button-three {
 
 a.button-three:hover {
   background: #fff;
-  color: #003445;
+  color: #00999e;
 }
 
 a.button-four {
@@ -4049,7 +4050,7 @@ a.button-four {
   display: inline-block;
   text-align: center;
   background: #fff;
-  color: #003445;
+  color: #00999e;
   text-transform: uppercase;
   font-weight: 700;
   line-height: 50px;
@@ -4061,17 +4062,17 @@ section.form-typhography {
 }
 
 a.button-four:hover {
-  background: #fde428;
-  color: #003445;
+  background: #8b173b;
+  color: #00999e;
 }
 
 .single-input-contact input:focus {
   outline: none !imortant;
-  box-shadow: 0 0 1px #fde428;
+  box-shadow: 0 0 1px #8b173b;
 }
 .single-input-contact select:focus {
   outline: none !imortant;
-  box-shadow: 0 0 1px #fde428;
+  box-shadow: 0 0 1px #8b173b;
   border: none !important;
 }
 
