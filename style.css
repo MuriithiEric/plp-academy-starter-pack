@@ -1741,7 +1741,8 @@ a.ui-slider-handle.ui-state-default.ui-corner-all {
   height: 100%;
   left: 0;
   top: 0;
-  background: #00999E ;
+  background: rgba(0, 73, 92, 0.85)
+  ;
   content: "";
 }
 
